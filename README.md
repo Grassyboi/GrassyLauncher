@@ -1,6 +1,6 @@
 # Grassy Launcher
 
-## Requirements:
+# Requirements:
   Python
   
   customtkinter
