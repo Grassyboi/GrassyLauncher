@@ -20,6 +20,10 @@ Grassy Launcher is a free, light python program to run cracked Minecraft.
 
     pip install customtkinter minecraft-launcher-lib
 
+# Tip:
+
+  **If you are not supposed to have any form of Minecraft or cracked Minecraft, I would recomend putting the file in a random folder**
+
 
 
     
